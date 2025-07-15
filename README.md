@@ -6,7 +6,11 @@ I created the Library Management System (LMS) as a Python-based application to s
 Features:
 
 Book Management: Add, view, and manage book records (title, author, ISBN, etc.).
+
 Search Functionality: Search books by title, author, or other attributes.
+
 Borrow and Return Books: Manage book issuance and returns for library members.
+
 User Management: Handle user information for borrowing purposes.
+
 MySQL Integration: Store and retrieve library data using a MySQL database for persistent and efficient data management.
